@@ -1,6 +1,4 @@
 # Supply-Chain-Management
-This repository showcases my work as a data analyst in the domain of supply chain management. Leveraging a diverse set of data analysis tools, including Power BI, Excel, and SQL, I have meticulously constructed a comprehensive supply chain management solution.
-Conducted data analysis, revealing Samsung's highest sales (266k) and SiriusXM's lowest sales (40k), optimizing strategies for YTD and MTD.
 • Analysed regional sales trends, guiding regional strategies with the West leading at 75k and the Midwest at 40k, ensuring profitable operations.
-• Maintained a consistent 40% profit margin, ensuring financial stability and identified steady sales growth from 2019 to 2022, uncovering growth opportunities and trends.Conducted data analysis, revealing Samsung's highest sales (266k) and SiriusXM's lowest sales (40k), optimizing strategies for YTD and MTD. • Analysed regional sales trends, guiding regional strategies with the West leading at 75k and the Midwest at 40k, ensuring profitable operations. • Maintained a consistent 40% profit margin, ensuring financial stability and identified steady sales growth from 2019 to 2022, uncovering growth opportunities and trends.
+• Maintained a consistent 40% profit margin, ensuring financial stability and identified steady sales growth from 2019 to 2022, uncovering growth opportunities and trends.
 Skills: Data Analysis · Microsoft Excel · SQL · Microsoft Power BI · Data Visualization · Tableau · Microsoft Power Query
