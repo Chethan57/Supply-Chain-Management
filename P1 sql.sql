@@ -77,8 +77,6 @@ inner join store st
 on sa.`Store key`=st.`Store key`
 group by `Store Region`;
 
-call `Region wise Profit`();
-call `Region wise Sales`();
 
 
 
