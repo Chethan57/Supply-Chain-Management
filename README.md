@@ -48,3 +48,20 @@ This project showcases a dedicated effort to elevate our supply chain management
 ###  <ins> KPI 11: Total Profit by Region </ins>
 ##### -The West dominates in total profit.
 ##### -Strategic decisions guide resource allocation and market expansion.
+
+#  OUTCOMES 
+
+### <ins> Boosting Store Performance: </ins> 
+Delving into store-wise sales, I've fine-tuned the operations of Store #799, strategically driving sales and enhancing overall efficiency.
+
+### <ins>Tackling Post-Pandemic Challenges: </ins> 
+Responding to the sales dip post-2020 due to the pandemic, I've proactively devised recovery strategies, ensuring a resilient supply chain in the face of unforeseen disruptions.
+
+ ### <ins> Adapting to Daily Sales Trends: </ins> 
+ Using daily sales trend insights, I've flexibly adjusted to market shifts, making timely changes to cater to evolving customer needs in a dynamic supply chain.
+
+### <ins> Nailing Brand-Specific Marketing: </ins> 
+Focused on brand-wise sales, especially Samsung and Apple, my targeted marketing has hit the mark, aligning strategies with each brand's strengths for impactful results.
+
+### <ins> Mastering Regional Markets: </ins> 
+Leveraging data from region-wise sales and total profit, I've strategically positioned my business for regional dominance, tailoring approaches to meet the unique demands of each locale and ensure lasting profitability.
